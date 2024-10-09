@@ -1,5 +1,5 @@
 # Hi, I'm Mohammad Mahdi Sangtarash
-Currently, I am a student of the 6th semester of computer engineering. I am interested in studying a master's degree in a field related to artificial intelligence.
+Currently, I am a student of the 7th semester of computer engineering. I am interested in studying a master's degree in a field related to artificial intelligence.
 Besides studying, I try to learn more about artificial intelligence
 
 📫 How to reach me:
