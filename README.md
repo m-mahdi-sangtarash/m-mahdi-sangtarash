@@ -1,3 +1,4 @@
+<img src="images/back.jpg"/>
 # Hi, I'm Mohammad Mahdi Sangtarash
 Currently, I am a student of the 8th semester of computer engineering. I am interested in studying a master's degree in a field related to artificial intelligence.
 Besides studying, I try to learn more about artificial intelligence
@@ -9,9 +10,18 @@ Besides studying, I try to learn more about artificial intelligence
 Languagess and Frameworks:
 
 <p align="center">
-  <img src="https://link-to-your-image1.png" width="150"/>
-  <img src="https://link-to-your-image2.png" width="150"/>
-  <img src="https://link-to-your-image3.png" width="150"/>
+  <img src="images/python.png" width="100"/>
+  <img src="images/numpy.png" width="100"/>
+  <img src="images/pandas.png" width="100"/>
+  <img src="images/Matplotlib.png" width="100"/>
+  <img src="images/OpenCV.png" width="100"/>
+  <img src="images/django.png" width="100"/>
+  <img src="images/FastAPI.png" width="100"/>
+  <img src="images/SQL_Server.png" width="100"/>
+  <img src="images/postgresql.png" width="100"/>
+  <img src="images/Oracle.png" width="100"/>
+  <img src="images/mysql.png" width="100"/>
+  <img src="images/Power_BI.png" width="100"/>
 </p>
 
 
