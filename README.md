@@ -6,6 +6,15 @@ Besides studying, I try to learn more about artificial intelligence
 * Email: m.mahdi.sangtarash@gmail.com
 * LinkedIn: www.linkedin.com/in/mohammad-mahdi-sangtarash-9b72a4246/
 
+Languagess and Frameworks:
+
+<p align="center">
+  <img src="https://link-to-your-image1.png" width="150"/>
+  <img src="https://link-to-your-image2.png" width="150"/>
+  <img src="https://link-to-your-image3.png" width="150"/>
+</p>
+
+
 <div>
   
   [![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mahdi-sangtarash&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
