@@ -38,5 +38,5 @@ eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAA
 
 </div>
 
+vless://1182c246-1eaa-42c8-b7d1-8dd760e28b59@sv10.starpo1.ir:1100?security=reality&encryption=none&pbk=rl9Wmith3MC8MHX2KIGbois4Xovc3b2bFVEdn29LyGA&host=speedtest.net&headerType=http&fp=random&spx=%2F&type=tcp&sni=ea.com&sid=087c24eb#Literally
 
-vless://5edcc3f4-92bc-4aa8-a1c4-4e7982cd8be5@My.bickio.xyz:2072?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
