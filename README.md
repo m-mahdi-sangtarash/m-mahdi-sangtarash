@@ -25,9 +25,6 @@ Languagess and Frameworks:
   <img src="images/Power_BI.png" width="50"/>
 </p>
 
-UQBywCGklgnTI2BcAb363YoVr6AnteOYsppk8lFdKRndNz-w
-
-eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 
 <div>
@@ -38,5 +35,4 @@ eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAA
 
 </div>
 
-vless://1182c246-1eaa-42c8-b7d1-8dd760e28b59@sv10.starpo1.ir:1100?security=reality&encryption=none&pbk=rl9Wmith3MC8MHX2KIGbois4Xovc3b2bFVEdn29LyGA&host=speedtest.net&headerType=http&fp=random&spx=%2F&type=tcp&sni=ea.com&sid=087c24eb#Literally
 
